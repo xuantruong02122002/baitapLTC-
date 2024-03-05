@@ -1,0 +1,14 @@
+D:\LTC\bt_vehicle\bt_vehicle\bin\Debug\netcoreapp3.1\bt_vehicle.exe
+D:\LTC\bt_vehicle\bt_vehicle\bin\Debug\netcoreapp3.1\bt_vehicle.deps.json
+D:\LTC\bt_vehicle\bt_vehicle\bin\Debug\netcoreapp3.1\bt_vehicle.runtimeconfig.json
+D:\LTC\bt_vehicle\bt_vehicle\bin\Debug\netcoreapp3.1\bt_vehicle.runtimeconfig.dev.json
+D:\LTC\bt_vehicle\bt_vehicle\bin\Debug\netcoreapp3.1\bt_vehicle.dll
+D:\LTC\bt_vehicle\bt_vehicle\bin\Debug\netcoreapp3.1\bt_vehicle.pdb
+D:\LTC\bt_vehicle\bt_vehicle\obj\Debug\netcoreapp3.1\bt_vehicle.csproj.AssemblyReference.cache
+D:\LTC\bt_vehicle\bt_vehicle\obj\Debug\netcoreapp3.1\bt_vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTC\bt_vehicle\bt_vehicle\obj\Debug\netcoreapp3.1\bt_vehicle.AssemblyInfoInputs.cache
+D:\LTC\bt_vehicle\bt_vehicle\obj\Debug\netcoreapp3.1\bt_vehicle.AssemblyInfo.cs
+D:\LTC\bt_vehicle\bt_vehicle\obj\Debug\netcoreapp3.1\bt_vehicle.csproj.CoreCompileInputs.cache
+D:\LTC\bt_vehicle\bt_vehicle\obj\Debug\netcoreapp3.1\bt_vehicle.dll
+D:\LTC\bt_vehicle\bt_vehicle\obj\Debug\netcoreapp3.1\bt_vehicle.pdb
+D:\LTC\bt_vehicle\bt_vehicle\obj\Debug\netcoreapp3.1\bt_vehicle.genruntimeconfig.cache
